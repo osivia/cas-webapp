@@ -3,7 +3,7 @@
     
     <groupId>fr.gouv.education.cns.cas</groupId>
     <artifactId>cas-server-webapp</artifactId>
-    <version>4.6.1-cns</version>
+    <version>4.6-SNAPSHOT</version>
     <packaging>war</packaging>
     
     <name>CNS - CAS Web Application</name>
@@ -176,7 +176,7 @@
     </build>
 
 	<scm>
-		<developerConnection>scm:svn:http://www.osivia.org/repos/osivia-services/cas/webapp/tags/4.6.1-cns
+		<developerConnection>scm:svn:http://www.osivia.org/repos/osivia-services/cas/webapp/branches/cns-cas-webapp
 		</developerConnection>
 	</scm>   
 	
