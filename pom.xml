@@ -4,7 +4,7 @@
     
     <groupId>org.jasig.cas</groupId>
     <artifactId>cas-server-webapp</artifactId>
-    <version>4.4.5</version>
+    <version>4.4-SNAPSHOT</version>
     
     <packaging>war</packaging>
     <name>JA-SIG CAS Web Application</name>
@@ -171,7 +171,7 @@
     </build>
     
 	<scm>
-		<developerConnection>scm:svn:http://www.osivia.org/repos/osivia-services/cas/webapp/tags/4.4.5
+		<developerConnection>scm:svn:http://www.osivia.org/repos/osivia-services/cas/webapp/branches/foad-cas-webapp
 		</developerConnection>
 	</scm>   
 	
