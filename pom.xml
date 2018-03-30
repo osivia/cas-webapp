@@ -3,7 +3,7 @@
     
     <groupId>org.osivia.demo.cas</groupId>
     <artifactId>cas-server-webapp</artifactId>
-    <version>4.7-RC1</version>
+    <version>4.7-SNAPSHOT</version>
     <packaging>war</packaging>
     
     <name>OSIVIA demo - CAS Web Application</name>
@@ -178,7 +178,7 @@
 
 
 	<scm>
-		<developerConnection>scm:svn:http://www.osivia.org/repos/osivia-services/cas/webapp/tags/4.7-RC1
+		<developerConnection>scm:svn:http://www.osivia.org/repos/osivia-services/cas/webapp/trunk
 		</developerConnection>
 	</scm>   
 	
