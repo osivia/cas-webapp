@@ -12,7 +12,7 @@
         <cas.version>3.4.6</cas.version>
         <inspektr.version>1.0.2.GA</inspektr.version>
         <spring.version>3.0.5.RELEASE</spring.version>
-        <hibernate.version>4.0.2.GA</hibernate.version>
+        <hibernate.version>5.3.5.Final</hibernate.version>
         <quartz.version>1.6.1</quartz.version>
         <servlet.version>2.5</servlet.version>
         <jstl.version>1.1.2</jstl.version>
