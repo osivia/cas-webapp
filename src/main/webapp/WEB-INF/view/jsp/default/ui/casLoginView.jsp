@@ -85,7 +85,7 @@
                             <div class="d-flex justify-content-between flex-wrap mb-3">
                                 <div class="mr-3">
                                     <a href="#" target="popup"
-                                       onclick="window.open('/portal/portal/default/change-password','popup','width=800,height=600'); return false;"
+                                       onclick="window.open('/portal/content/idx/DEFAULT_CHANGE-PASSWORD','popup','width=800,height=600'); return false;"
                                        class="text-secondary">
                                         <small><spring:message code="password.forgotten"/></small>
                                     </a>
